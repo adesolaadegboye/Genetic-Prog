@@ -18,7 +18,10 @@
 #define BASIC_FTNS_H 1
 
 #include <string>
+#include <cstdlib>
 using namespace std;
+
+
 
 //Master abstract class: GOftn: Genetic Optimize Function
 class GOftn
